@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHITCOTER
+- 👋 Hi, I’m @AbdulazizBokhodirov
 - 👀 I’m interested in Games, Music,Programming,Sports
 - 🌱 I’m currently learning Python,Web-Development,SQL
 - 💞️ I’m looking to collaborate on maybe some game or software development project
